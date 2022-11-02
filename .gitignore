@@ -1,0 +1,10 @@
+.vscode/*
+.vscode/
+.vscode
+.DS_Store
+build/
+partition_table/
+# sdkconfig
+sdkconfig.old
+sdkconfig.olds
+.vscode/CMakeLists.txt
