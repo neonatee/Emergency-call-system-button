@@ -10,6 +10,3 @@
 [submodule "components/arduino"]
 	path = components/arduino
 	url = https://github.com/espressif/arduino-esp32.git
-[submodule "components/GyverButton"]
-	path = components/GyverButton
-	url = https://github.com/GyverLibs/GyverButton.git
