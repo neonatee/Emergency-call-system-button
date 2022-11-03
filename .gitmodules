@@ -1,15 +1,3 @@
-[submodule "components/AXP202"]
-	path = components/AXP202
-	url = https://github.com/neonatee/AXP202.git
-[submodule "components/RadioLib"]
-	path = components/RadioLib
-	url = https://github.com/neonatee/RadioLib.git
-[submodule "components/Adafruit_NeoPixel"]
-	path = components/Adafruit_NeoPixel
-	url = https://github.com/neonatee/Adafruit_NeoPixel.git
 [submodule "components/arduino"]
 	path = components/arduino
 	url = https://github.com/espressif/arduino-esp32.git
-[submodule "components/GyverButton"]
-	path = components/GyverButton
-	url = https://github.com/GyverLibs/GyverButton.git
